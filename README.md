@@ -1,4 +1,4 @@
-# Design Styles
+# Style Guides
 
 A comprehensive repository containing style guides, design patterns, and ready-to-use boilerplates that I use for multiple frameworks across different programming languages. This helps maintain a familiar structure for different projects on a framework and makes collaboration easier
 
