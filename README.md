@@ -1,6 +1,6 @@
-# Style Designs and Directory Patterns Repository
+# Design Styles
 
-A comprehensive repository containing style guides, design patterns, and ready-to-use boilerplates for multiple frameworks across different programming languages.
+A comprehensive repository containing style guides, design patterns, and ready-to-use boilerplates that I use for multiple frameworks across different programming languages. This helps maintain a familiar strucutre for differernt projects on a framework and makes collaboration easier
 
 ## Overview
 
