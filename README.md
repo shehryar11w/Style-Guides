@@ -1,6 +1,6 @@
 # Design Styles
 
-A comprehensive repository containing style guides, design patterns, and ready-to-use boilerplates that I use for multiple frameworks across different programming languages. This helps maintain a familiar strucutre for differernt projects on a framework and makes collaboration easier
+A comprehensive repository containing style guides, design patterns, and ready-to-use boilerplates that I use for multiple frameworks across different programming languages. This helps maintain a familiar structure for different projects on a framework and makes collaboration easier
 
 ## Overview
 
@@ -65,5 +65,7 @@ When adding new frameworks or patterns:
 
 ## License
 
-[Add your license here]
+This project is licensed under the MIT License.
+
+You’re free to use, modify, and build upon the code with proper attribution. The goal is learning, experimentation, and collaboration. Feel free to use these patterns in your projects.
 
